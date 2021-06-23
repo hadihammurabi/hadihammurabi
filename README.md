@@ -1,4 +1,4 @@
-![badge-codewars](https://www.codewars.com/users/hadihammurabi/badges/large)
+![badge-codewars](https://www.codewars.com/users/hadihammurabi/badges/small)
 
 # Social Media
 * [About Me](https://stackoverflow.com/story/hadihammurabi)
