@@ -1,6 +1,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=hadihammurabi&column=3&margin-w=20&margin-h=15&&no-bg=true&no-frame=true)
 
-![badge-codewars](https://www.codewars.com/users/hadihammurabi/badges/small)
+[![badge-codewars](https://www.codewars.com/users/hadihammurabi/badges/small)](https://www.codewars.com/users/hadihammurabi)
 
 # Social Media
 * [About Me](https://stackoverflow.com/story/hadihammurabi)
