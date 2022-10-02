@@ -1,4 +1,5 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=hadihammurabi&column=3&margin-w=20&margin-h=15&&no-bg=true&no-frame=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihammurabi&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hadihammurabi&theme=github)
 
 [![badge-codewars](https://www.codewars.com/users/hadihammurabi/badges/small)](https://www.codewars.com/users/hadihammurabi)
 
