@@ -1,7 +1,15 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihammurabi&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hadihammurabi&theme=github)
 
-[![badge-codewars](https://www.codewars.com/users/hadihammurabi/badges/small)](https://www.codewars.com/users/hadihammurabi) • >> • >> • >> • >>
-[About Me](https://stackoverflow.com/story/hadihammurabi) 🌐
-[Linkedin](https://www.linkedin.com/in/hadihammurabi/) 🌐
-[Youtube](https://www.youtube.com/c/tamankodekode)
+<a href="https://stackoverflow.com/story/hadihammurabi">
+ <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/hadihammurabi/">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/c/tamankodekode">
+ <img src="https://img.shields.io/badge/youtube-%23E05D44.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://www.codewars.com/users/hadihammurabi">
+ <img src="https://www.codewars.com/users/hadihammurabi/badges/small"/>
+</a>
