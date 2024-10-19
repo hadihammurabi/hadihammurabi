@@ -4,7 +4,7 @@
 <a href="https://www.codewars.com/users/hadihammurabi">
  <img src="https://www.codewars.com/users/hadihammurabi/badges/small"/>
 </a>
-<a href="https://stackoverflow.com/story/hadihammurabi">
+<a href="https://stackoverflow.com/users/11132361/hadi-hidayat-hammurabi">
  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/hadihammurabi/">
