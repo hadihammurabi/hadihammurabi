@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=hadihammurabi&label=Profile%20Views&color=70A4FC&style=flat" alt="hadihammurabi" />
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihammurabi&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hadihammurabi&theme=github)
 
